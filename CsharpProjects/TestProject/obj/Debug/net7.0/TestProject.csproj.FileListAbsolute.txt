@@ -1,0 +1,15 @@
+/Users/zero/Documents/microsoftLearn/ejercicio_negocio/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject
+/Users/zero/Documents/microsoftLearn/ejercicio_negocio/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.deps.json
+/Users/zero/Documents/microsoftLearn/ejercicio_negocio/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.runtimeconfig.json
+/Users/zero/Documents/microsoftLearn/ejercicio_negocio/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.dll
+/Users/zero/Documents/microsoftLearn/ejercicio_negocio/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.pdb
+/Users/zero/Documents/microsoftLearn/ejercicio_negocio/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.AssemblyReference.cache
+/Users/zero/Documents/microsoftLearn/ejercicio_negocio/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zero/Documents/microsoftLearn/ejercicio_negocio/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfoInputs.cache
+/Users/zero/Documents/microsoftLearn/ejercicio_negocio/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfo.cs
+/Users/zero/Documents/microsoftLearn/ejercicio_negocio/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/zero/Documents/microsoftLearn/ejercicio_negocio/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.dll
+/Users/zero/Documents/microsoftLearn/ejercicio_negocio/CsharpProjects/TestProject/obj/Debug/net7.0/refint/TestProject.dll
+/Users/zero/Documents/microsoftLearn/ejercicio_negocio/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.pdb
+/Users/zero/Documents/microsoftLearn/ejercicio_negocio/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.genruntimeconfig.cache
+/Users/zero/Documents/microsoftLearn/ejercicio_negocio/CsharpProjects/TestProject/obj/Debug/net7.0/ref/TestProject.dll
